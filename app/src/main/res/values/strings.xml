@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PaceCalculator</string>
+    <string-array name="distances">
+        <item>Half-marathon</item>
+        <item>10k</item>
+        <item>5k</item>
+    </string-array>
+</resources>
